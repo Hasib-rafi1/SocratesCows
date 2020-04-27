@@ -15,12 +15,19 @@ stable.
 
 # Sample Test Cases
 Input:
+
 5
+
 A d 9
+
 B d 3
+
 C e 9
+
 d z 8
+
 e z 3
 
 Output:
+
 B 11
